@@ -1,0 +1,4 @@
+# Ignore Advent of Code Day 21 and Day 24 folders
+day_21/
+day_24/
+.DS_Store
